@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: my-angular-ui-pattern
+description: Chart to configure ArgoCD with the my-angular-ui-pattern project and its applications
